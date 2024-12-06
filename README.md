@@ -1,2 +1,2 @@
 # i2pd-vpn
-нехуйственно было б аналог openvpn через i2pd сваять. через outproxy
+It would be great to create a analogue to openvpn via i2pd outproxy
